@@ -1,3 +1,3 @@
 {
-  "extends": "@luna-ui/eslint-config"
+  "extends": "@luna-ui-lib/eslint-config"
 }

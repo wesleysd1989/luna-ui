@@ -1,4 +1,4 @@
-# @luna-ui/react
+# @luna-ui-lib/react
 
 ## 1.0.1
 

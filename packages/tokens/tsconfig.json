@@ -1,5 +1,5 @@
 {
-  "extends": "@luna-ui/ts-config/base.json",
+  "extends": "@luna-ui-lib/ts-config/base.json",
   "include": [
     "src"
   ]

@@ -1,4 +1,4 @@
-import { colors } from "@luna-ui/tokens";
+import { colors } from "@luna-ui-lib/tokens";
 import { getContrast } from "polished";
 
 export function ColorsGrid() {

@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from "@storybook/react";
-import { Button, ButtonProps } from "@luna-ui/react";
+import { Button, ButtonProps } from "@luna-ui-lib/react";
 import { ArrowRight } from "phosphor-react";
 
 export default {

@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from "@luna-ui/tokens";
+} from "@luna-ui-lib/tokens";
 import { createStitches, defaultThemeMap } from "@stitches/react";
 
 export const {

@@ -1,2 +1,3 @@
-# luna-ui
- lib of components
+# luna-ui-lib
+
+lib of components
